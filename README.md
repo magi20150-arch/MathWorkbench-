@@ -1,2 +1,14 @@
-# MathWorkbench-
-本工作台支持：数学题ai自动拆题，手动拆题，ocr识别，ai自动生成答案，ai自动解析，题目自动分类，手动调整分类，组卷，导出试卷等功能
+# \# MathWorkbench
+
+# 
+
+# MathWorkbench v0.22
+
+# 
+
+# Windows 64-bit portable application.
+
+# 
+
+# Download the latest version from the Releases page.
+
